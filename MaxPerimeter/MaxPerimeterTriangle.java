@@ -1,3 +1,5 @@
+package basic_programming.MaxPerimeter;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
