@@ -1,12 +1,12 @@
 import random
 import math
- # Taking Inputs
-lower = int(input("Enter Lower bound:- "))
 
 # Taking Inputs
-upper = int(input("Enter Upper bound:- "))
+lower = int(input("Enter Lower bound: "))
 
-# generating random number between
+upper = int(input("Enter Upper bound: "))
+
+# generating random number Between
 # the lower and upper
 x = random.randint(lower, upper)
 print("\n\tYou've only ", round(math.log(upper - lower + 1, 2))," chances to guess the integer!\n")
