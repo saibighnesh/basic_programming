@@ -1,15 +1,15 @@
-<h3 align="center">
-  basic_programming
-</h3>
+<h2 align="center"> 
+  <b>basic_programming</b>
+</h2>
 
-<p align="center">Share and contribute all your innovative programs in your preferred language :)</p>
+<p align="center"><u>Share and contribute all your innovative programs in your preferred language</u> :)</p>
 
 
 ## 👨🏻‍💻 About the project
 
 - <p style="color: black;">Share and contribute all your innovative programs in your preferred language in open source, anyone, anywhere to use it :)</p>
-
-- <p style="color: black;">Basic, Python, C, C++, Java, PHP, HTML, CSS, JS or even React, Angular or Vue :)</p>
+git 
+- <p style="color: black;">Basic, Python, C, C++, Java, PHP, HTML, git CSS, JS or even React, Angular or Vue :)</p>
 
 
 ## 🤔 How to contribute
@@ -64,7 +64,10 @@ $ git push origin <add-your-branch-name>
 Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
-<p> </p
+<p>
+ <img src="./robot.jpg" alt="robot here" border="10px">
+ 
+ </p>
 
 
 
