@@ -61,8 +61,7 @@ Now, Push your awesome work to your remote repository using
 $ git push origin <add-your-branch-name>
 ```
 
-Finally, go to your repository in the browser and click on `compare and pull requests`.
-Then add a title and description to your pull request that explains your precious effort.
+
 
 <p>
  <img src="./robot.jpg" alt="robot here" border="10px">
